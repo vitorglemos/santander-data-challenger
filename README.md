@@ -1,10 +1,12 @@
 ## Projeto - Santander Data Challenge 2020 
 ### Composição do time:
+
+- [Thainá Monteiro](https://www.linkedin.com/in/thaina-monteiro/)
+- [Aline Jacó](https://www.linkedin.com/in/aline-jacó-23476a76/)
+- [Vítor Lemos](https://www.linkedin.com/in/vitorgamalemos/)
 -
 -
--
--
--
+
 ### Resumo do Desafio
 
 Pequenas e médias empresas brasileiras sabem que inovar é imprescindível para seu funcionamento e permanência no mercado. Isso é o que mostra o resultado da pesquisa do Comitê Inovação nas Pequenas e Médias Empresas (PME) da Associação Nacional de Pesquisa, Desenvolvimento e Engenharia das Empresas Inovadoras (Anpei).
