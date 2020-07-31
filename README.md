@@ -4,7 +4,7 @@
 - [Thainá Monteiro](https://www.linkedin.com/in/thaina-monteiro/)
 - [Aline Jacó](https://www.linkedin.com/in/aline-jacó-23476a76/)
 - [Vítor Lemos](https://www.linkedin.com/in/vitorgamalemos/)
--
+- [Luciana Rodrigues](https://www.linkedin.com/in/luciana-rodrigues-a8451aa3/)
 -
 
 ### Resumo do Desafio
