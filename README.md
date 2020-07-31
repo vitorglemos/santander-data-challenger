@@ -5,7 +5,7 @@
 - [Aline Jacó](https://www.linkedin.com/in/aline-jacó-23476a76/)
 - [Vítor Lemos](https://www.linkedin.com/in/vitorgamalemos/)
 - [Luciana Rodrigues](https://www.linkedin.com/in/luciana-rodrigues-a8451aa3/)
--
+- [Ana Beatriz Pranskunas](https://www.linkedin.com/in/ana-beatriz-pranskunas-292585101/)
 
 ### Resumo do Desafio
 
