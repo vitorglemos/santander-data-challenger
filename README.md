@@ -1,4 +1,9 @@
 ## Projeto - Santander Data Challenge 2020 
+
+- **Vídeo de apresentação (Pitch)**: https://www.youtube.com/watch?v=KPLD8BvyFYE&feature=youtu.be
+- **Vídeo Demo**: https://www.youtube.com/watch?v=F27mMhvkun4&feature=youtu.be
+- **Apresentação**: https://github.com/vitorglemos/hackathon_santander_data_challenge/blob/master/TrendFinder%20(1).pdf
+
 ### Composição do time:
 
 - [Thainá Monteiro](https://www.linkedin.com/in/thaina-monteiro/)
