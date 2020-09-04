@@ -13,7 +13,7 @@
 | [<img alt="Thaina Monteiro" src="https://octodex.github.com/images/femalecodertocat.png" width="100">](https://www.linkedin.com/in/thaina-monteiro/) | [<img alt="Aline Jacó" src="https://octodex.github.com/images/octdrey-catburn.jpg" width="100">](https://www.linkedin.com/in/aline-jac%C3%B3-23476a76/) | [<img alt="Vitor Lemos" src="https://octodex.github.com/images/inspectocat.jpg" width="100">](https://www.linkedin.com/in/vitorgamalemos/) | [<img alt="Luciana Rodrigues" src="https://octodex.github.com/images/labtocat.png" width="100">](https://www.linkedin.com/in/luciana-rodrigues-a8451aa3/) | [<img alt="Ana Beatriz Pranskunas" src="https://octodex.github.com/images/codercat.jpg" width="100">](https://www.linkedin.com/in/ana-beatriz-pranskunas-292585101/)
 |:--------------------------------------------------:|:--------------------------------------------------:|:--------------------------------------------------:|:--------------------------------------------------:|:--------------------------------------------------:|
 | [Thaina Monteiro](https://www.linkedin.com/in/thaina-monteiro/) | [Aline Jacó](https://www.linkedin.com/in/aline-jac%C3%B3-23476a76/) | [Vítor Lemos](https://www.linkedin.com/in/vitorgamalemos/) | [Luciana Rodrigues](https://www.linkedin.com/in/luciana-rodrigues-a8451aa3/)| [Ana Pranskunas](https://www.linkedin.com/in/ana-beatriz-pranskunas-292585101/)
-| Marketing | Business | Data Science | Data Science | Marketing
+| Marketing | Business | Data Science | Data Science | UX/UI
 
 <h3 class="code-line" data-line-start=30 data-line-end=31 >Solução apresentada</h3>
 
